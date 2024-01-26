@@ -1,11 +1,7 @@
 {
-  "name": "yandex-metrica-ab-react",
-  "version": "1.6.0",
-  "description": "",
-  "homepage": "https://github.com/Firnis/yandex-metrica-ab-react",
-  "bugs": {
-    "url": "https://github.com/Firnis/yandex-metrica-ab-react/issues"
-  },
+  "name": "@livingroot/yandex-metrica-ab-react",
+  "version": "1.6.1",
+  "description": "Fork of yandex-metrica-ab-react by firnis",
   "keywords": [
     "react",
     "metrica",
@@ -16,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Firnis/yandex-metrica-ab-react"
+    "url": "https://github.com/Nevatrip/yandex-metrica-ab-react"
   },
   "files": [
     "./dist/context.js",

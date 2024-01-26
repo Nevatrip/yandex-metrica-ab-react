@@ -32,7 +32,7 @@ export const useExperiments = <T extends Record<string, string>>(params: UseExpe
                 ready: true,
             } as AnswerNamed<T>),
         });
-    }, [clientId, clientFeatures, config, i, href]);
+    }, [clientId, clientFeatures, i, href]);
 
     return data;
 }
